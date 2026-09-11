@@ -125,4 +125,4 @@ VALUES
 (103, 'Priya', 60000, 2),
 (104, 'Aman', 80000, 3);
 
-7. 2-Tier and 3-Tier Architecture
+
